@@ -1,4 +1,4 @@
-# Java Experiments
+# Java Week Programs
 
 This folder contains Java programming experiments and exercises focused on Object-Oriented Programming concepts.
 
